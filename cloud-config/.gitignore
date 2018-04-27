@@ -1,4 +1,9 @@
-/target/*
-/.settings/*
+.DS_Store
+.gradle
+.idea
+*.iml
+build
+target
+.settings
 .classpath
 .project
