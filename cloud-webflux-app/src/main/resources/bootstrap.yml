@@ -1,8 +1,8 @@
 spring:
   application:
-    name: cloud-gateway
+    name: cloud-webflux-app
   config:
-    name: cloud-gateway
+    name: cloud-webflux-app
   cloud:
     config:
       # cloud-config 通过本地域名配置（/etc/hosts）

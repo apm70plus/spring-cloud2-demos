@@ -1,8 +1,8 @@
 server:
   port: 8888
 
-# 默认的profile为dev，其他环境通过指定启动参数使用不同的profile，比如：  
-# 测试环境：java -jar my-spring-boot.jar --spring.profiles.active=test  
+# 默认的profile为native，其他环境通过指定启动参数使用不同的profile，比如：  
+# 测试环境：java -jar my-spring-boot.jar --spring.profiles.active=uat  
 # 生产环境：java -jar my-spring-boot.jar --spring.profiles.active=prod  
 spring:  
   profiles:  
@@ -33,7 +33,7 @@ spring:
   cloud:
     config:
       server:
-        uri:
-          git: https://github.com/apm70plus/tcloudconfig
+        git:
+          uri: https://github.com/apm70plus/tcloudconfig
 
 

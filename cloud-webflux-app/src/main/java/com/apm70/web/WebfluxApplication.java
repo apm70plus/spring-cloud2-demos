@@ -1,16 +1,14 @@
-package com.apm70.gateway;
+package com.apm70.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-import org.springframework.web.bind.annotation.RestController;
 
-@RestController
-@EnableDiscoveryClient(autoRegister = true)
+@EnableDiscoveryClient(autoRegister=true)
 @SpringBootApplication
-public class GatewayApplication {
+public class WebfluxApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GatewayApplication.class, args);
+		SpringApplication.run(WebfluxApplication.class, args);
 	}
 }
