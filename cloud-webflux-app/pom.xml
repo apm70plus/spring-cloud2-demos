@@ -14,7 +14,7 @@
 	<packaging>jar</packaging>
 	
     <properties>
-    		<spring-cloud.version>Finchley.RC1</spring-cloud.version>
+    		<spring-cloud.version>Finchley.SR1</spring-cloud.version>
     </properties>
 	<dependencies>
 		<dependency>
