@@ -10,7 +10,7 @@
 - [从零开始的Spring Security Oauth2](https://github.com/lexburner/oauth2-demo)
 - [从零开始的Spring Security Oauth2 blog](http://blog.didispace.com/spring-security-oauth2-xjf-1/)
 
-## 为服务，大牛系列好文收藏
+## 微服务，大牛系列好文收藏
 - [微服务化的基石——持续集成](https://mp.weixin.qq.com/s?__biz=MzI1NzYzODk4OQ==&mid=2247484778&idx=1&sn=f3a29677d7030370fdd9b8931a0449d0&chksm=ea151248dd629b5e1439bc4fa84411cdb5444d0bf0e8c09267a868fcb18f78602482dea51107&scene=21#wechat_redirect)
 - [微服务的接入层设计与动静资源隔离](http://mp.weixin.qq.com/s?__biz=MzI1NzYzODk4OQ==&mid=2247484791&idx=1&sn=4cb4fb04b481c3aee8a882934c8d925f&chksm=ea151255dd629b43c6383d912234ae0d53fad34e354fdf985a6461aa2774deaf313a234d64fb&scene=21#wechat_redirect)
 - [微服务化的数据库设计与读写分离](http://mp.weixin.qq.com/s?__biz=MzI1NzYzODk4OQ==&mid=2247484821&idx=1&sn=1d73b718ddb6bcbdd28a7fa98d7dcda0&chksm=ea1512b7dd629ba12412b22a213f281638b2e21161938fbb82c176a2b8a869753afa46a841f6&scene=21#wechat_redirect)
